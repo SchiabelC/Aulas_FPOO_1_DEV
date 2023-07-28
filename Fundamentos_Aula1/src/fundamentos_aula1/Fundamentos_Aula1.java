@@ -20,7 +20,7 @@ public class Fundamentos_Aula1 {
        double media = 5.5;
        
        String bairro = new String("Centro");
-       int nota1 = Integer.parseInt("5.5");
+       int nota1 = Integer.parseInt("5");
        double media2 = Double.parseDouble("8");
        boolean aprovado = Boolean.parseBoolean("true");
     }
