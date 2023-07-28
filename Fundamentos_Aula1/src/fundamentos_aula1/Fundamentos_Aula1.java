@@ -17,7 +17,9 @@ public class Fundamentos_Aula1 {
         String nome = "Caio";
         int idade = 17;
         boolean estudando = true;
+       double media = 5.5;
        
+       String bairro = new String("Centro");
     }
     
 }
