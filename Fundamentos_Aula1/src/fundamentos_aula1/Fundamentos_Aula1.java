@@ -14,7 +14,10 @@ public class Fundamentos_Aula1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String nome = "Caio";
+        int idade = 17;
+        boolean estudando = true;
+       
     }
     
 }
