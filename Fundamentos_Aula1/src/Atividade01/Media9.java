@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Media9 {
     public static void main(String[] args) {
    Scanner scanner = new Scanner(System.in);
-    int rs = media(10,10,10,10);
+   double valores = scanner.nextDouble();
+    int rs = media();
         System.out.println("A media:" + rs);
         
     }
