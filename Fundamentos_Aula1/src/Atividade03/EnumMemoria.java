@@ -1,0 +1,5 @@
+package Atividade03;
+
+public enum EnumMemoria {
+    QUATRO_GIGAS_RAM,OITO_GIGAS_RAM,DOZE_GIGAS_RAM,DEZOITO_GIGAS_RAM,TRINTA_GIGAS_RAM;
+}
